@@ -21,7 +21,7 @@ export default () => (
     </p>
 
     <h2>
-    Hola como estas
+    Hola dolfy y tito
     </h2>
   </PrimaryLayout>
 )
