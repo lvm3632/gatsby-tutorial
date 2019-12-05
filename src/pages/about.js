@@ -19,5 +19,9 @@ export default () => (
 
       Hola
     </p>
+
+    <h2>
+    Hola como estas
+    </h2>
   </PrimaryLayout>
 )
